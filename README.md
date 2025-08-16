@@ -30,7 +30,3 @@ APIs:
 Google Maps Directions API
 
 OpenWeather API
-
-[Optional] Transit feeds (GTFS)
-
-Deployment: Render / Vercel (free tier)
